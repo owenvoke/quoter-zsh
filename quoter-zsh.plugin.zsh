@@ -1,6 +1,6 @@
 # Set a custom quote bank file using the QUOTER_BANK variable
 if [[ ! "${QUOTER_BANK}" ]]; then
-    QUOTER_BANK = "default"
+    QUOTER_BANK="default"
 fi
 
 # Check if the quote bank file exists
