@@ -10,6 +10,12 @@ Via zplug (add to your `.zshrc`)
 zplug "pxgamer/quoter-zsh"
 ```
 
+Via Antigen
+
+```bash
+antigen bundle pxgamer/quoter-zsh
+```
+
 ## Usage
 
 **Changing the default quote bank**
