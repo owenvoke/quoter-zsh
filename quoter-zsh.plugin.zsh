@@ -4,7 +4,7 @@ if [[ ! "${QUOTER_BANK}" ]]; then
 fi
 
 # Check if the quote bank file exists
-if [[ -f ${QUOTER_BANK} ]]
+if [[ -f ${QUOTER_BANK} ]]; then
     # Include the quote bank file
     source "./src/${QUOTER_BANK}.zsh"
 
