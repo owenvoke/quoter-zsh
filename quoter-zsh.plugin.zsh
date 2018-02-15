@@ -4,12 +4,12 @@ if [[ ! "${QUOTER_BANK}" ]]; then
 fi
 
 # Check if the quote bank file exists
-if [[ -f ${QUOTER_BANK} ]]; then
+if [[ -f "./src/${QUOTER_BANK}.zsh" ]]; then
     # Include the quote bank file
     source "./src/${QUOTER_BANK}.zsh"
 
     # Output a random quote
-    echo "${quoter_selection[RANDOM % #quoter_selection + 1]}"
+    echo "${quoter_selection[RANDOM % ${#quoter_selection} + 1]}"
     echo
     unset quoter_selection
 fi
