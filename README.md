@@ -10,6 +10,16 @@ Via zplug (add to your `.zshrc`)
 zplug "pxgamer/quoter-zsh"
 ```
 
+## Usage
+
+**Changing the default quote bank**
+
+To change the quote bank, set the `QUOTE_BANK` variable before loading the plugin.
+
+```bash
+export QUOTE_BANK=custom
+```
+
 ## Credits
 
 - [pxgamer][link-author]
