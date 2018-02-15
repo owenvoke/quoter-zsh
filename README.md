@@ -1,6 +1,6 @@
 # quoter-zsh
 
-A ZSH plugin for displaying random quotes when opening terminal.
+A ZSH plugin for displaying random quotes when opening a terminal.
 
 ## Install
 
