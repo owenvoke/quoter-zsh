@@ -3,4 +3,6 @@ quoter_selection=(
 	"People who are doing things for fun do things the right way by themselves.\n - Linus Torvalds"
 	"Talk is cheap. Show me the code.\n - Linus Torvalds"
 	"Those that can, do. Those that can't, complain.\n - Linus Torvalds"
+	"Things that are impossible just take longer.\n - Ian Hickson"
+	"When in doubt, leave it out.\n - Joshua Bloch"
 )
