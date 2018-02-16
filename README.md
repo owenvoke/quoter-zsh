@@ -23,7 +23,7 @@ antigen bundle pxgamer/quoter-zsh
 To change the quote bank, set the `QUOTE_BANK` variable before loading the plugin.
 
 ```bash
-export QUOTE_BANK=custom
+export QUOTER_BANK=custom
 ```
 
 ## Credits
