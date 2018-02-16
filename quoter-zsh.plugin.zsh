@@ -3,10 +3,11 @@ if [[ ! "${QUOTER_BANK}" ]]; then
     QUOTER_BANK="default"
 fi
 
+quoter_bank_file="$(dirname -- "$0")/src/${QUOTER_BANK}.zsh"
 # Check if the quote bank file exists
-if [[ -f "$(dirname $0)/src/${QUOTER_BANK}.zsh" ]]; then
+if [[ -f "${quoter_bank_file}" ]]; then
     # Include the quote bank file
-    source "$(dirname $0)/src/${QUOTER_BANK}.zsh"
+    source "${quoter_bank_file}"
 
     # Output a random quote
     echo "${quoter_selection[RANDOM % ${#quoter_selection} + 1]}"
