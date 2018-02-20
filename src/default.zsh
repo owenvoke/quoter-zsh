@@ -6,4 +6,5 @@ quoter_selection=(
 	"Things that are impossible just take longer.\n - Ian Hickson"
 	"When in doubt, leave it out.\n - Joshua Bloch"
 	"In theory, theory and practice are the same. In practice, they’re not.\n - Yoggi Berra"
+	"I don't care if it works on your machine! We are not shipping your machine!\n - Vidiu Platon"
 )
