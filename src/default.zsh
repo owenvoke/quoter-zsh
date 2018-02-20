@@ -11,4 +11,5 @@ quoter_selection=(
 	"First, solve the problem. Then, write the code.\n - John Johnson"
 	"Copy and paste is a design error.\n - David Parnas"
 	"Testing shows the presence, not the absence of bugs.\n - Edsger W. Dijkstra"
+	"I would love to change the world, but they won't give me the source code.\n - Anonymous"
 )
