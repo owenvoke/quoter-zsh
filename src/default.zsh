@@ -9,4 +9,5 @@ quoter_selection=(
 	"I don't care if it works on your machine! We are not shipping your machine!\n - Vidiu Platon"
 	"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.\n - Martin Golding"
 	"First, solve the problem. Then, write the code.\n - John Johnson"
+	"Copy and paste is a design error.\n - David Parnas"
 )
