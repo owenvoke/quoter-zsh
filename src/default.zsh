@@ -14,4 +14,5 @@ quoter_selection=(
     "I would love to change the world, but they won't give me the source code.\n - Anonymous"
     "Computers are like bikinis. They save people a lot of guesswork.\n - Sam Ewing"
     "Never trust a computer you can’t throw out a window.\n - Steve Wozniak"
+    "I do not fear computers. I fear the lack of them.\n - Isaac Asimov"
 )
