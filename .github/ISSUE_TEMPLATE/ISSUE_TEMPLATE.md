@@ -1,3 +1,9 @@
+---
+name: General Issue
+about: Create a report to help us improve
+
+---
+
 <!-- Provide a general summary of the issue in the Title above -->
 
 ## Detailed description
@@ -20,8 +26,8 @@ Not obligatory, but suggest an idea for implementing addition or change.
 
 Include as many relevant details about the environment you experienced the bug in and how to reproduce it.
 
+* Version used (e.g. PHP 5.6, HHVM 3):
 * Operating system and version (e.g. Ubuntu 16.04, Windows 7):
-* ZSH manager (e.g. zplug, antigen)
 * Link to your project:
 * ...
 * ...
