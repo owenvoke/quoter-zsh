@@ -1,4 +1,4 @@
-# quoter-zsh
+# Quoter Zsh
 
 A ZSH plugin for displaying random quotes when opening a terminal.
 
@@ -7,13 +7,13 @@ A ZSH plugin for displaying random quotes when opening a terminal.
 Via zplug (add to your `.zshrc`)
 
 ```bash
-zplug "pxgamer/quoter-zsh"
+zplug "owenvoke/quoter-zsh"
 ```
 
 Via Antigen
 
 ```bash
-antigen bundle pxgamer/quoter-zsh
+antigen bundle owenvoke/quoter-zsh
 ```
 
 ## Usage
@@ -28,12 +28,12 @@ export QUOTER_BANK=custom
 
 ## Credits
 
-- [pxgamer][link-author]
+- [Owen Voke][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[link-author]: https://github.com/pxgamer
+[link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
